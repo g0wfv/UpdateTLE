@@ -12,12 +12,12 @@ updatetle.sh looks for any *xxx*.conf files in the same directory and processes 
 
 The *xxx*.conf file format is as follows ...
 
-> [base url]
-> http://somewhere.com/somedirectory/
-> [files]
-> file_1.txt
-> file_2.txt
-> ...
-> file_n.txt
-
-
+```
+[base url]
+http://somewhere.com/somedirectory/
+[files]
+file_1.txt
+file_2.txt
+...
+file_n.txt
+```
