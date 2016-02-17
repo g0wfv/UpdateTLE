@@ -1,6 +1,5 @@
 # UpdateTLE
-## Update TLE files from multiple web locations and update transpoder definitions
-for Gpredict.
+## Update TLE files from multiple web locations and update transponder definitions for Gpredict.
 
 Run updatetle.sh to only update TLE files
 
